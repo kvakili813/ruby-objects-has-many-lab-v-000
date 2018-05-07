@@ -7,7 +7,7 @@ attr_accessor :title, :author
     @author = author
   end
 
-  def artist_name
-    @artist
+  def author_name
+    @author
   end
 end
