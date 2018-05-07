@@ -8,7 +8,7 @@ attr_accessor :name
   end
 
   def add_song(song)
-    @song << song
+    @songs << song
   end
 
 end
