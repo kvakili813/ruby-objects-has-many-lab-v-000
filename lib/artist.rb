@@ -11,4 +11,8 @@ attr_accessor :name
     @songs << song
   end
 
+  def songs
+    @songs
+  end
+
 end
