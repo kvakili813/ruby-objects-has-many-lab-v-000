@@ -21,7 +21,7 @@ attr_accessor :name, :posts
   end
 
   def self.post_count
-    @@song_count
+    @@post_count
   end
 
   def posts
