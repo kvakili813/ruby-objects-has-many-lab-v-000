@@ -24,8 +24,8 @@ attr_accessor :name, :posts
     @@song_count
   end
 
-  def songs
-    @songs
+  def posts
+    @posts
   end
 
 end
