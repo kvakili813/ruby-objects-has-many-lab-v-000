@@ -9,7 +9,6 @@ attr_accessor :title, :author
   end
 
   def author_name
-binding.pry
-    @author
+    @author.name
   end
 end
